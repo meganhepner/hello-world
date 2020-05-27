@@ -16,13 +16,10 @@ _This is my first HTML practice which presents a simple page saying hello in man
 
 _HTML_
 
-## Known Bugs
-
-__
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_For any questions, concerns, or if you would like to make contributions to the code, please contact Megan Hepner._
 
 ## Technologies Used
 
